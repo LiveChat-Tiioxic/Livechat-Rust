@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Mise à jour 1.0.2",
-  "pub_date": "2026-11-09T12:00:00Z",
+  "version": "1.0.4",
+  "notes": "Mise à jour 1.0.4",
+  "pub_date": "2026-11-09T22:31:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2QwaTJSWG83SG9KWU1sR3o2UWZsdTJaMTdjU04rcUpLcjFLSmZVKzFwclFjMEJwR21pWXJHV2RwU0w3UDB5Q1RRTWVVMmdCT2d4d3FQTGhXb2ZnaUlETXdEY1pBQmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM5ODMwCWZpbGU6TGl2ZUNoYXQgQ0NCXzEuMC4yX3g2NC1zZXR1cC5leGUKMXU4WVhPcDNxczhjbE9OWEI4aHViT0trbWxMUE9SNnhUS0pRbEExMklrVnlWUHIyYktvVERKdW12Q3pud2ljUzlEaXR6UW14cThKSkg2RDlZeXBIRHc9PQo=",
-      "url": "https://github.com/LiveChat-Tiioxic/Livechat-Rust/releases/download/v1.0.2/LiveChat.CCB_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRb2QwaTJSWG83SHNDZG5mZkJoeTc4RCtzL3RmT1BlK0pYQ29mYVMweExKWVZhYnQxZTR4U0VWWnRCTnlNcnh0dktRVWk1dTFNcy82TkFIVEZleUVHUXJac0MzSDVnMkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYzNDg3CWZpbGU6TGl2ZUNoYXQgQ0NCXzEuMC40X3g2NC1zZXR1cC5leGUKcm9qamxsNkUzdnJHczlIVmtMK3NFMmFJS3YyQVZUYTYyVGZwZXBlMHozM1ArOHVyVlUrUFpkejM0eHVKZWVRMHlaUjkxSjhucVo0NlRKVmRRNDZFQWc9PQo=",
+      "url": "https://github.com/LiveChat-Tiioxic/Livechat-Rust/releases/download/v1.0.4/LiveChat.CCB_1.0.4_x64-setup.exe"
     }
   }
 }
